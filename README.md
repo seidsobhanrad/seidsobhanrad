@@ -75,9 +75,9 @@ I’m also interested in entrepreneurship, product development, emerging technol
 Open to meaningful collaborations, ambitious ideas, and conversations about AI, software, and the future of technology.
 
 - **GitHub:** [seidsobhanrad](https://github.com/seidsobhanrad)
-- **LinkedIn:** `YOUR_LINKEDIN_URL` — replace with a real public profile or remove this line.
-- **Website:** `YOUR_WEBSITE_URL` — replace with a real site or remove this line.
-- **Email:** `YOUR_PUBLIC_EMAIL` — add only an address you want publicly visible, or remove this line.
+- 
+- **Website:** `https://radgroupx.ir/` — replace with a real site or remove this line.
+- **Email:** `seid.sobhan.rad@gmail.com` — add only an address you want publicly visible, or remove this line.
 
 <p align="center"><img src="assets/footer.svg" alt="Minimal cyan and violet orbital line artwork" width="100%"></p>
 
