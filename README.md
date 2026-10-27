@@ -88,4 +88,3 @@ Open to meaningful collaborations, ambitious ideas, and conversations about AI, 
 
 ---
 
-<sub>Profile identity and links are placeholders where personal details were not supplied. See <a href="docs/CUSTOMIZATION.md">Customization</a> and <a href="docs/PUBLISHING.md">Publishing</a> before making this your public profile README.</sub>
