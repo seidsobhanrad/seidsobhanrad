@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Sobhan Rad — Build what comes next</title>
+  <desc id="desc">Dark geometric banner with a subtle grid, orbital rings, cyan and violet nodes, and the words Sobhan Rad and Build what comes next.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F7FF"/>
+      <stop offset="1" stop-color="#8A2BE2"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#9DA7B3" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#00F7FF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#00F7FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1500" height="500" rx="28" fill="url(#bg)"/>
+  <rect width="1500" height="500" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1120" cy="250" rx="390" ry="250" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <ellipse cx="1160" cy="250" rx="260" ry="108" transform="rotate(-28 1160 250)" opacity=".75"/>
+    <ellipse cx="1160" cy="250" rx="205" ry="155" transform="rotate(34 1160 250)" opacity=".5"/>
+    <circle cx="1160" cy="250" r="118" opacity=".3"/>
+  </g>
+  <g fill="#0D1117" stroke-width="3">
+    <circle cx="961" cy="153" r="8" stroke="#00F7FF"/>
+    <circle cx="1360" cy="259" r="7" stroke="#8A2BE2"/>
+    <circle cx="1126" cy="99" r="6" stroke="#00F7FF"/>
+    <circle cx="1059" cy="364" r="8" stroke="#8A2BE2"/>
+  </g>
+  <path d="M108 114h54M108 114v54M1392 386h-54m54 0v-54" fill="none" stroke="#00F7FF" stroke-opacity=".75" stroke-width="2"/>
+  <rect x="108" y="214" width="5" height="108" rx="2.5" fill="url(#accent)"/>
+  <text x="140" y="268" fill="#E6EDF3" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="5">SOBHAN RAD</text>
+  <text x="143" y="316" fill="#9DA7B3" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="5">BUILD WHAT COMES NEXT</text>
+  <path d="M143 350h220" stroke="url(#accent)" stroke-width="2" opacity=".9"/>
+  <circle cx="372" cy="350" r="4" fill="#00F7FF"/>
+</svg>
