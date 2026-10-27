@@ -1,7 +1,9 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Abstract dark-futurist banner reading Sobhan Rad — Build what comes next" width="100%">
 </p>
+**Language / زبان:** 🇺🇸 [English](README.md) | 🇮🇷 [فارسی](README.fa.md)
 
+---
 <h1 align="center">Sobhan Rad</h1>
 
 <p align="center"><strong>Independent Technology Enthusiast · Aspiring Software Developer · AI Explorer · Future Builder</strong></p>
